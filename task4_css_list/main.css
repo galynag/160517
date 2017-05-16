@@ -1,0 +1,31 @@
+h1{
+    font-size: 1.1em;
+    text-align: left;
+    padding-left: 23px;
+}
+ul.none li {
+    list-style-type: none;
+}
+ur {
+    font-weight: lighter;
+}
+.bot-index {
+    text-line-through-style: 1px solid black;
+}
+span.del {
+    text-decoration: line-through;
+}
+div ol li:last-child {
+    text-decoration: underline;
+}
+ol {
+    padding-bottom: 30px;
+    border-bottom: 1px solid grey;
+}
+div {
+    width:285px;
+    margin: auto;
+}
+.task {
+    background: lightblue;
+}
